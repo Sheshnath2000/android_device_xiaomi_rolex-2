@@ -37,6 +37,11 @@ persist.speaker.prot.enable=false
 audio.offload.multiaac.enable=true
 audio.dolby.ds2.hardbypass=true
 flac.sw.decoder.24bit.support=true
+vendor.audio_hal.period_size=192
+vendor.voice.path.for.pcm.voip=true
+vendor.audio.use.dts_eagle=true
+use.dts_eagle=true
+hpx_send_params=1
 
 # Bluetooth
 bluetooth.hfp.client=1
