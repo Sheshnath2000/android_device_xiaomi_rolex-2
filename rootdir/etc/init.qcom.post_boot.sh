@@ -26,8 +26,6 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-import /init.spectrum.rc
-
 target=`getprop ro.board.platform`
 
 function configure_memory_parameters() {
