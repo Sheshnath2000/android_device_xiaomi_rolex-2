@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+#Bootanimation res
+TARGET_BOOT_ANIMATION_RES := 720
+
 $(call inherit-product, device/xiaomi/rolex/full_rolex.mk)
 
 # Inherit some common LineageOS stuff.
